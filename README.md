@@ -8,18 +8,18 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=for-the-badge&logo=springboot)
 
 
-## 🚀 Tech Stack & Tools
-![Tech Stack](https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif)
 
+
+## 🚀 Tech Stack & Latest Blogs
 
 ## 🚀 Tech Stack & Latest Blogs
 
 <table>
 <tr>
-<td>
+<td width="50%">
 <img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif" width="400">
 </td>
-<td>
+<td width="50%" valign="top">
 
 ### 📚 Current Learning
 - 🚀 Advancing my expertise in **Microservices Architecture & Distributed Systems**.
