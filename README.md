@@ -1,14 +1,9 @@
-
-# Ganesh_Chowdary
-
-![Hello World](https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png)
-
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=for-the-badge&logo=springboot)
-
-
-
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud Platforms:** AWS, Azure, Google Cloud
 
 
 
