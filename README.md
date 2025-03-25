@@ -122,20 +122,18 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 <i><h3 align="right">Connect with me</h3></i>
 
 <p align="right">
-  <a href="https://linkedin.com/in/sumanshekhar698">
+  <a href="[https://www.linkedin.com/in/sganeshchowdary/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/suman_shekhar_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  </a>
-</p>
+  
+<a href="mailto:s.sriganeshchowdary@gmail.com">
+  <img src="https://img.shields.io/badge/Email-s.sriganeshchowdary%40gmail.com-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+</a>
+  <a href="tel:9256260725">
+  <img src="https://img.shields.io/badge/Phone-9256260725-brightgreen.svg?logo=phone&logoColor=white" alt="Phone" />
+</a>
 
-<div align="right">
-<a  href="https://www.buymeacoffee.com/sumanshekhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
- </div>
+
 
 <!-- GitHub Contribution Graph -->
 <!-- <table>
@@ -148,20 +146,6 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 </table>
 <br> -->
 
-<br><br><br><br>
-<!-- GitHub Stats -->
-<table>
-  <tr>
-   <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&theme=synthwave&hide_border=true" />
-   </td>
-   <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanshekhar698&theme=merko&hide_border=true&show_icons=true" />    
-   </td>
- </tr>
-</table>
-
-<br><br>
 
 <!-- commits eating snake 🐍
 
