@@ -52,13 +52,12 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-📍I am Ganesh Chowdary, a recent graduate from California State University, Long Beach, and I do backend development. I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Spring framework and Dropwizard.
-
-- 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @s.sriganeshchowdary@gmail.com
-- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
+•📍 I’m Ganesh Chowdary, a recent CS graduate from California State University, Long Beach.  
+• 💻 Specializing in backend development using Java and Spring.  
+• 🛠️ Experienced in building scalable web apps and microservices.  
+• 🚀 Actively looking for new opportunities to grow and contribute.  
+• 🤝 Excited to collaborate with passionate and driven teams.
+• ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
 <!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
