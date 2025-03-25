@@ -122,9 +122,9 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 <i><h3 align="right">Connect with me</h3></i>
 
 <p align="right">
-  <a href="[https://www.linkedin.com/in/sganeshchowdary/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/sganeshchowdary/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   
 <a href="mailto:s.sriganeshchowdary@gmail.com">
   <img src="https://img.shields.io/badge/Email-s.sriganeshchowdary%40gmail.com-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
